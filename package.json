@@ -1,0 +1,23 @@
+{
+  "name": "icons-postprocess",
+  "version": "1.0.0",
+  "description": "Size icons for desktop/mobile",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vincent-tr/icons-postprocess.git"
+  },
+  "author": "Vincent Trumpff",
+  "license": "GPL-3.0+",
+  "bugs": {
+    "url": "https://github.com/vincent-tr/icons-postprocess/issues"
+  },
+  "homepage": "https://github.com/vincent-tr/icons-postprocess#readme",
+  "dependencies": {
+    "async": "^2.3.0",
+    "jimp": "^0.2.27"
+  }
+}
